@@ -1,0 +1,2 @@
+# ReactQueryWithoutOperators
+Created with CodeSandbox
